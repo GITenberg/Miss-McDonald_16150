@@ -1,0 +1,32 @@
+_repo: Miss-McDonald_16150
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holmes, Mary Jane
+    alias: Holmes, Mary Jane (Hawes)
+    birthdate: 1825
+    deathdate: 1907
+    gutenberg_agent_id: '1239'
+    url: http://www.gutenberg.org/2009/agents/1239
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Jane_Holmes
+description: Miss McDonald / Mary J. Holmes, 146 p. -- One true heart / Frances Henshaw
+  Baden, 10 p. -- The story of the wedding ring / [anonymous], p. [5]-139 -- The secret
+  panel / [anonymous], p. 3-21.
+gutenberg_issued: '2005-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Divorce -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Marriage -- Fiction'
+title: Miss McDonald
+url: http://www.gutenberg.org/ebooks/16150
